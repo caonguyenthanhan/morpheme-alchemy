@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVG">
+<path id="Vector" opacity="0.2" d="M16 160C16 239.476 80.5242 304 160 304C239.476 304 304 239.476 304 160C304 80.5242 239.476 16 160 16C80.5242 16 16 80.5242 16 160V160" stroke="#FFC174" stroke-width="0.8" stroke-dasharray="3.2 9.6"/>
+<path id="Vector_2" opacity="0.15" d="M48 160C48 221.814 98.1855 272 160 272C221.814 272 272 221.814 272 160C272 98.1855 221.814 48 160 48C98.1855 48 48 98.1855 48 160V160" stroke="#E0B6FF" stroke-width="0.8"/>
+<path id="Vector_3" opacity="0.2" d="M80 160C80 204.153 115.847 240 160 240C204.153 240 240 204.153 240 160C240 115.847 204.153 80 160 80C115.847 80 80 115.847 80 160V160" stroke="#54DDFC" stroke-width="0.8" stroke-dasharray="4.8 4.8"/>
+<path id="Vector_4" opacity="0.1" d="M112 160C112 186.492 133.508 208 160 208C186.492 208 208 186.492 208 160C208 133.508 186.492 112 160 112C133.508 112 112 133.508 112 160V160" stroke="#FFC174" stroke-width="0.8"/>
+<path id="Vector_5" opacity="0.12" d="M160 24L278.4 227.2H41.6L160 24" stroke="#FFC174" stroke-width="0.8"/>
+<path id="Vector_6" opacity="0.1" d="M160 296L41.6 92.8H278.4L160 296" stroke="#54DDFC" stroke-width="0.8"/>
+</g>
+</svg>

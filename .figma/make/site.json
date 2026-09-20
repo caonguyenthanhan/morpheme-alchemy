@@ -1,0 +1,10 @@
+{
+  "description": "Transform and analyze text by breaking it down into morphemes, enhancing language learning and linguistic research for educators and students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

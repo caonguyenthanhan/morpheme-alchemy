@@ -1,0 +1,23 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="184" height="184" viewBox="0 0 184 184" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Morpheme Alchemy Emblem">
+<path id="Vector" opacity="0.4" d="M14.72 92C14.72 134.652 49.348 169.28 92 169.28C134.652 169.28 169.28 134.652 169.28 92C169.28 49.348 134.652 14.72 92 14.72C49.348 14.72 14.72 49.348 14.72 92V92" stroke="url(#paint0_linear_0_4)" stroke-width="2.76" stroke-dasharray="7.36 11.04"/>
+<path id="Vector_2" opacity="0.8" d="M92 33.12L150.88 132.48H33.12L92 33.12" stroke="url(#paint1_linear_0_4)" stroke-width="3.68"/>
+<path id="Vector_3" opacity="0.75" d="M58.88 69.92C58.88 88.1994 73.7206 103.04 92 103.04C110.279 103.04 125.12 88.1994 125.12 69.92C125.12 51.6406 110.279 36.8 92 36.8C73.7206 36.8 58.88 51.6406 58.88 69.92V69.92" stroke="#F59E0B" stroke-width="2.76"/>
+<path id="Vector_4" opacity="0.75" d="M34.96 110.4C34.96 128.679 49.8006 143.52 68.08 143.52C86.3594 143.52 101.2 128.679 101.2 110.4C101.2 92.1206 86.3594 77.28 68.08 77.28C49.8006 77.28 34.96 92.1206 34.96 110.4V110.4" stroke="#C77DFF" stroke-width="2.76"/>
+<path id="Vector_5" opacity="0.75" d="M82.8 110.4C82.8 128.679 97.6406 143.52 115.92 143.52C134.199 143.52 149.04 128.679 149.04 110.4C149.04 92.1206 134.199 77.28 115.92 77.28C97.6406 77.28 82.8 92.1206 82.8 110.4V110.4" stroke="#06B6D4" stroke-width="2.76"/>
+<path id="Vector_6" d="M85.56 97.52C85.56 101.074 88.4457 103.96 92 103.96C95.5543 103.96 98.44 101.074 98.44 97.52C98.44 93.9657 95.5543 91.08 92 91.08C88.4457 91.08 85.56 93.9657 85.56 97.52V97.52" fill="white"/>
+<path id="Vector_7" opacity="0.8" d="M92 80.96V114.08M75.44 97.52H108.56" stroke="white" stroke-width="1.84"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_4" x1="14.72" y1="14.72" x2="169.28" y2="169.28" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C77DFF"/>
+<stop offset="0.5" stop-color="#F59E0B"/>
+<stop offset="1" stop-color="#06B6D4"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_4" x1="33.12" y1="33.12" x2="131.063" y2="149.201" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C77DFF"/>
+<stop offset="0.5" stop-color="#F59E0B"/>
+<stop offset="1" stop-color="#06B6D4"/>
+</linearGradient>
+</defs>
+</svg>
